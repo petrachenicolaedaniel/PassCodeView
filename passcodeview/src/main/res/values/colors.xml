@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="transparent">#00000000</color>
+    <color name="black">#000000</color>
+    <color name="white">#FAFAFA</color>
+    <color name="colorBlue">#2b44ff</color>
+    <color name="h1black">#323542</color>
+    <color name="editTextBottomHint">#7c8ba2</color>
+</resources>
